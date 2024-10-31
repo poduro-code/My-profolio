@@ -14,6 +14,14 @@ body {
     padding-bottom: 2cm;
     height: 5mm;
    }
+
+   #email {
+   background: white;
+  }
+  
+  #phone {
+    background: white;
+  }
   
   .topmenu {
     color: lightgray;
